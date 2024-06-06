@@ -54,3 +54,4 @@ Project meant to develop skills related to Active Directory services. Gain insig
  
 ## References
 
+Josh Madakor. (2021, January 4). How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell [Video]. YouTube. https://www.youtube.com/watch?v=MHsI8hJmggI
